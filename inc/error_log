@@ -1,0 +1,42 @@
+[07-Oct-2022 13:30:11 Africa/Lagos] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PortalUtility::createProduct(), 10 passed in /home/akbfound/public_html/fidelity/inc/portal.php on line 557 and exactly 11 expected in /home/akbfound/public_html/fidelity/inc/portal.php:24
+Stack trace:
+#0 /home/akbfound/public_html/fidelity/inc/portal.php(557): PortalUtility->createProduct(Object(mysqli), 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test')
+#1 {main}
+  thrown in /home/akbfound/public_html/fidelity/inc/portal.php on line 24
+[07-Oct-2022 13:30:16 Africa/Lagos] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PortalUtility::createProduct(), 10 passed in /home/akbfound/public_html/fidelity/inc/portal.php on line 557 and exactly 11 expected in /home/akbfound/public_html/fidelity/inc/portal.php:24
+Stack trace:
+#0 /home/akbfound/public_html/fidelity/inc/portal.php(557): PortalUtility->createProduct(Object(mysqli), 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test')
+#1 {main}
+  thrown in /home/akbfound/public_html/fidelity/inc/portal.php on line 24
+[07-Oct-2022 13:30:18 Africa/Lagos] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PortalUtility::createProduct(), 10 passed in /home/akbfound/public_html/fidelity/inc/portal.php on line 557 and exactly 11 expected in /home/akbfound/public_html/fidelity/inc/portal.php:24
+Stack trace:
+#0 /home/akbfound/public_html/fidelity/inc/portal.php(557): PortalUtility->createProduct(Object(mysqli), 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test')
+#1 {main}
+  thrown in /home/akbfound/public_html/fidelity/inc/portal.php on line 24
+[07-Oct-2022 13:30:19 Africa/Lagos] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PortalUtility::createProduct(), 10 passed in /home/akbfound/public_html/fidelity/inc/portal.php on line 557 and exactly 11 expected in /home/akbfound/public_html/fidelity/inc/portal.php:24
+Stack trace:
+#0 /home/akbfound/public_html/fidelity/inc/portal.php(557): PortalUtility->createProduct(Object(mysqli), 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test')
+#1 {main}
+  thrown in /home/akbfound/public_html/fidelity/inc/portal.php on line 24
+[07-Oct-2022 13:30:20 Africa/Lagos] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PortalUtility::createProduct(), 10 passed in /home/akbfound/public_html/fidelity/inc/portal.php on line 557 and exactly 11 expected in /home/akbfound/public_html/fidelity/inc/portal.php:24
+Stack trace:
+#0 /home/akbfound/public_html/fidelity/inc/portal.php(557): PortalUtility->createProduct(Object(mysqli), 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test')
+#1 {main}
+  thrown in /home/akbfound/public_html/fidelity/inc/portal.php on line 24
+[07-Oct-2022 13:30:48 Africa/Lagos] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PortalUtility::createProduct(), 10 passed in /home/akbfound/public_html/fidelity/inc/portal.php on line 557 and exactly 11 expected in /home/akbfound/public_html/fidelity/inc/portal.php:24
+Stack trace:
+#0 /home/akbfound/public_html/fidelity/inc/portal.php(557): PortalUtility->createProduct(Object(mysqli), 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test')
+#1 {main}
+  thrown in /home/akbfound/public_html/fidelity/inc/portal.php on line 24
+[07-Oct-2022 13:30:55 Africa/Lagos] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PortalUtility::createProduct(), 10 passed in /home/akbfound/public_html/fidelity/inc/portal.php on line 557 and exactly 11 expected in /home/akbfound/public_html/fidelity/inc/portal.php:24
+Stack trace:
+#0 /home/akbfound/public_html/fidelity/inc/portal.php(557): PortalUtility->createProduct(Object(mysqli), 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test')
+#1 {main}
+  thrown in /home/akbfound/public_html/fidelity/inc/portal.php on line 24
+[07-Oct-2022 14:16:18 Africa/Lagos] PHP Warning:  A non-numeric value encountered in /home/akbfound/public_html/fidelity/inc/portal.php on line 199
+[07-Oct-2022 16:33:56 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 135
+[07-Oct-2022 16:33:59 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 135
+[07-Oct-2022 16:34:50 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 135
+[07-Oct-2022 16:34:52 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 135
+[07-Oct-2022 16:35:26 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 135
+[07-Oct-2022 16:36:51 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 135

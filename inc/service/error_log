@@ -1,0 +1,335 @@
+[21-Sep-2022 21:03:03 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 74
+[21-Sep-2022 21:03:27 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 74
+[21-Sep-2022 21:03:58 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 74
+[21-Sep-2022 21:05:09 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 74
+[21-Sep-2022 21:05:25 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 74
+[21-Sep-2022 21:07:20 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 74
+[21-Sep-2022 21:14:54 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 74
+[21-Sep-2022 21:18:50 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 74
+[23-Sep-2022 13:49:28 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[23-Sep-2022 13:49:50 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[23-Sep-2022 13:49:58 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[23-Sep-2022 13:50:35 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[23-Sep-2022 13:51:16 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[23-Sep-2022 13:59:18 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[23-Sep-2022 13:59:22 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[23-Sep-2022 14:14:54 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[23-Sep-2022 14:15:10 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[23-Sep-2022 16:17:49 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[23-Sep-2022 16:18:06 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[23-Sep-2022 16:18:19 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[23-Sep-2022 16:18:24 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[23-Sep-2022 20:10:12 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[23-Sep-2022 20:10:26 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[24-Sep-2022 09:52:50 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[24-Sep-2022 23:15:06 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[24-Sep-2022 23:25:01 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[24-Sep-2022 23:26:16 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[24-Sep-2022 23:27:00 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[24-Sep-2022 23:27:17 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[24-Sep-2022 23:27:52 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[24-Sep-2022 23:30:55 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[24-Sep-2022 23:32:32 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[24-Sep-2022 23:36:26 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[24-Sep-2022 23:37:44 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[24-Sep-2022 23:38:10 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[24-Sep-2022 23:44:29 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[24-Sep-2022 23:47:05 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[24-Sep-2022 23:49:49 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[24-Sep-2022 23:51:06 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[24-Sep-2022 23:52:08 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[25-Sep-2022 00:08:44 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[25-Sep-2022 21:57:20 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[25-Sep-2022 21:57:25 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[25-Sep-2022 21:57:30 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[25-Sep-2022 21:58:29 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[25-Sep-2022 21:58:59 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[25-Sep-2022 21:59:05 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[25-Sep-2022 22:18:02 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[25-Sep-2022 22:18:59 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 75
+[26-Sep-2022 09:38:31 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method PortalUtility::loginUser() in /home/akbfound/public_html/FS/inc/service/loginAjax.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/akbfound/public_html/FS/inc/service/loginAjax.php on line 18
+[26-Sep-2022 09:38:37 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method PortalUtility::loginUser() in /home/akbfound/public_html/FS/inc/service/loginAjax.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/akbfound/public_html/FS/inc/service/loginAjax.php on line 18
+[26-Sep-2022 09:38:51 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method PortalUtility::loginUser() in /home/akbfound/public_html/FS/inc/service/loginAjax.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/akbfound/public_html/FS/inc/service/loginAjax.php on line 18
+[26-Sep-2022 09:39:45 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method PortalUtility::loginUser() in /home/akbfound/public_html/FS/inc/service/loginAjax.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/akbfound/public_html/FS/inc/service/loginAjax.php on line 18
+[26-Sep-2022 09:39:51 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method PortalUtility::loginUser() in /home/akbfound/public_html/FS/inc/service/loginAjax.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/akbfound/public_html/FS/inc/service/loginAjax.php on line 18
+[26-Sep-2022 09:43:20 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 68
+[26-Sep-2022 09:44:14 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 68
+[26-Sep-2022 09:46:18 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 68
+[26-Sep-2022 09:48:26 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 68
+[26-Sep-2022 09:49:29 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 68
+[30-Sep-2022 22:14:09 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 57
+[30-Sep-2022 22:14:26 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 57
+[30-Sep-2022 22:18:01 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 57
+[30-Sep-2022 22:24:42 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 57
+[30-Sep-2022 22:25:02 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 57
+[30-Sep-2022 22:25:04 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 57
+[30-Sep-2022 22:25:12 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 57
+[30-Sep-2022 22:26:31 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 57
+[30-Sep-2022 22:26:33 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 57
+[01-Oct-2022 09:40:30 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 57
+[01-Oct-2022 09:49:47 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 57
+[01-Oct-2022 09:50:55 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 57
+[01-Oct-2022 09:51:09 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 57
+[01-Oct-2022 09:51:16 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 57
+[01-Oct-2022 09:51:26 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 57
+[01-Oct-2022 09:53:07 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 57
+[01-Oct-2022 09:53:38 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 57
+[01-Oct-2022 09:53:59 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 57
+[01-Oct-2022 09:54:11 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 57
+[01-Oct-2022 09:54:18 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 57
+[01-Oct-2022 09:54:21 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 57
+[01-Oct-2022 09:54:32 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 57
+[01-Oct-2022 09:55:26 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 57
+[01-Oct-2022 09:55:52 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 57
+[01-Oct-2022 10:00:01 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 57
+[01-Oct-2022 10:07:27 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 57
+[01-Oct-2022 10:09:09 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 57
+[01-Oct-2022 10:10:17 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 57
+[01-Oct-2022 10:12:28 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 57
+[01-Oct-2022 10:32:12 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 57
+[01-Oct-2022 15:56:37 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 57
+[01-Oct-2022 15:57:33 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 57
+[01-Oct-2022 15:57:52 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/FS/inc/portal.php on line 57
+[02-Oct-2022 22:41:20 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'akbfound_FS'@'localhost' (using password: YES) in /home/akbfound/public_html/fidelity/inc/db_connection.php on line 27
+[02-Oct-2022 22:41:20 Africa/Lagos] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/akbfound/public_html/fidelity/inc/service/loginAjax.php on line 14
+[02-Oct-2022 22:41:20 Africa/Lagos] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/akbfound/public_html/fidelity/inc/service/loginAjax.php on line 15
+[02-Oct-2022 22:41:20 Africa/Lagos] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/akbfound/public_html/fidelity/inc/portal.php on line 138
+[02-Oct-2022 22:41:20 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 139
+[02-Oct-2022 22:41:37 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'akbfound_FS'@'localhost' (using password: YES) in /home/akbfound/public_html/fidelity/inc/db_connection.php on line 27
+[02-Oct-2022 22:41:37 Africa/Lagos] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/akbfound/public_html/fidelity/inc/service/loginAjax.php on line 14
+[02-Oct-2022 22:41:37 Africa/Lagos] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/akbfound/public_html/fidelity/inc/service/loginAjax.php on line 15
+[02-Oct-2022 22:41:37 Africa/Lagos] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/akbfound/public_html/fidelity/inc/portal.php on line 138
+[02-Oct-2022 22:41:37 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 139
+[02-Oct-2022 22:41:43 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'akbfound_FS'@'localhost' (using password: YES) in /home/akbfound/public_html/fidelity/inc/db_connection.php on line 27
+[02-Oct-2022 22:41:43 Africa/Lagos] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/akbfound/public_html/fidelity/inc/service/loginAjax.php on line 14
+[02-Oct-2022 22:41:43 Africa/Lagos] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/akbfound/public_html/fidelity/inc/service/loginAjax.php on line 15
+[02-Oct-2022 22:41:43 Africa/Lagos] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/akbfound/public_html/fidelity/inc/portal.php on line 138
+[02-Oct-2022 22:41:43 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 139
+[02-Oct-2022 22:43:45 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'akbfound_FS'@'localhost' (using password: YES) in /home/akbfound/public_html/fidelity/inc/db_connection.php on line 27
+[02-Oct-2022 22:43:45 Africa/Lagos] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/akbfound/public_html/fidelity/inc/service/loginAjax.php on line 14
+[02-Oct-2022 22:43:45 Africa/Lagos] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/akbfound/public_html/fidelity/inc/service/loginAjax.php on line 15
+[02-Oct-2022 22:43:45 Africa/Lagos] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/akbfound/public_html/fidelity/inc/portal.php on line 138
+[02-Oct-2022 22:43:45 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 139
+[02-Oct-2022 22:43:59 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'akbfound_FS'@'localhost' (using password: YES) in /home/akbfound/public_html/fidelity/inc/db_connection.php on line 27
+[02-Oct-2022 22:43:59 Africa/Lagos] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/akbfound/public_html/fidelity/inc/service/loginAjax.php on line 14
+[02-Oct-2022 22:43:59 Africa/Lagos] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/akbfound/public_html/fidelity/inc/service/loginAjax.php on line 15
+[02-Oct-2022 22:43:59 Africa/Lagos] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/akbfound/public_html/fidelity/inc/portal.php on line 138
+[02-Oct-2022 22:43:59 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 139
+[02-Oct-2022 22:44:38 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'akbfound_FS'@'localhost' (using password: YES) in /home/akbfound/public_html/fidelity/inc/db_connection.php on line 27
+[02-Oct-2022 22:44:38 Africa/Lagos] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/akbfound/public_html/fidelity/inc/service/loginAjax.php on line 14
+[02-Oct-2022 22:44:38 Africa/Lagos] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/akbfound/public_html/fidelity/inc/service/loginAjax.php on line 15
+[02-Oct-2022 22:44:38 Africa/Lagos] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/akbfound/public_html/fidelity/inc/portal.php on line 138
+[02-Oct-2022 22:44:38 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 139
+[02-Oct-2022 22:45:46 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'akbfound_FS'@'localhost' (using password: YES) in /home/akbfound/public_html/fidelity/inc/db_connection.php on line 27
+[02-Oct-2022 22:45:46 Africa/Lagos] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/akbfound/public_html/fidelity/inc/service/loginAjax.php on line 14
+[02-Oct-2022 22:45:46 Africa/Lagos] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/akbfound/public_html/fidelity/inc/service/loginAjax.php on line 15
+[02-Oct-2022 22:45:46 Africa/Lagos] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/akbfound/public_html/fidelity/inc/portal.php on line 138
+[02-Oct-2022 22:45:46 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 139
+[02-Oct-2022 23:08:59 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 57
+[02-Oct-2022 23:09:46 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 57
+[02-Oct-2022 23:10:09 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 57
+[02-Oct-2022 23:11:25 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 57
+[02-Oct-2022 23:11:33 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 57
+[02-Oct-2022 23:11:57 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 57
+[02-Oct-2022 23:13:52 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 57
+[02-Oct-2022 23:14:27 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 57
+[02-Oct-2022 23:17:36 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 57
+[02-Oct-2022 23:17:43 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 57
+[02-Oct-2022 23:18:46 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 57
+[02-Oct-2022 23:19:20 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 57
+[02-Oct-2022 23:19:24 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 57
+[02-Oct-2022 23:20:39 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 57
+[02-Oct-2022 23:22:14 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 57
+[02-Oct-2022 23:22:36 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 57
+[02-Oct-2022 23:23:23 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 57
+[02-Oct-2022 23:24:26 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 57
+[02-Oct-2022 23:25:41 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 57
+[02-Oct-2022 23:26:40 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 57
+[02-Oct-2022 23:34:56 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 57
+[02-Oct-2022 23:35:20 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 57
+[02-Oct-2022 23:35:37 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 57
+[02-Oct-2022 23:36:05 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 57
+[02-Oct-2022 23:36:49 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 57
+[03-Oct-2022 00:23:39 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 57
+[03-Oct-2022 00:24:06 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 57
+[03-Oct-2022 00:26:17 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 57
+[03-Oct-2022 00:26:37 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 57
+[03-Oct-2022 00:26:58 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 57
+[03-Oct-2022 00:28:10 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 57
+[03-Oct-2022 00:34:06 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 57
+[03-Oct-2022 00:34:58 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 57
+[03-Oct-2022 00:35:08 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 57
+[03-Oct-2022 00:35:12 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 57
+[03-Oct-2022 14:41:42 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method PortalUtility::getSalesQuantity() in /home/akbfound/public_html/fidelity/inc/portal.php:321
+Stack trace:
+#0 /home/akbfound/public_html/fidelity/inc/portal.php(352): PortalUtility->updateProductQuantity(Object(mysqli), 'R0GWH', 'N1F62')
+#1 /home/akbfound/public_html/fidelity/inc/service/loginAjax.php(2): include('/home/akbfound/...')
+#2 {main}
+  thrown in /home/akbfound/public_html/fidelity/inc/portal.php on line 321
+[03-Oct-2022 14:41:45 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method PortalUtility::getSalesQuantity() in /home/akbfound/public_html/fidelity/inc/portal.php:321
+Stack trace:
+#0 /home/akbfound/public_html/fidelity/inc/portal.php(352): PortalUtility->updateProductQuantity(Object(mysqli), 'R0GWH', 'N1F62')
+#1 /home/akbfound/public_html/fidelity/inc/service/loginAjax.php(2): include('/home/akbfound/...')
+#2 {main}
+  thrown in /home/akbfound/public_html/fidelity/inc/portal.php on line 321
+[03-Oct-2022 14:41:55 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method PortalUtility::getSalesQuantity() in /home/akbfound/public_html/fidelity/inc/portal.php:321
+Stack trace:
+#0 /home/akbfound/public_html/fidelity/inc/portal.php(352): PortalUtility->updateProductQuantity(Object(mysqli), 'R0GWH', 'N1F62')
+#1 /home/akbfound/public_html/fidelity/inc/service/loginAjax.php(2): include('/home/akbfound/...')
+#2 {main}
+  thrown in /home/akbfound/public_html/fidelity/inc/portal.php on line 321
+[04-Oct-2022 20:37:32 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 386
+[04-Oct-2022 20:39:31 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 386
+[04-Oct-2022 20:39:31 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 386
+[04-Oct-2022 20:39:32 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 386
+[04-Oct-2022 20:43:11 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 386
+[04-Oct-2022 20:44:47 Africa/Lagos] PHP Warning:  Use of undefined constant point_id - assumed 'point_id' (this will throw an Error in a future version of PHP) in /home/akbfound/public_html/fidelity/inc/service/FetchSalesPointByIdAjax.php on line 13
+[04-Oct-2022 20:44:47 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 386
+[04-Oct-2022 20:45:51 Africa/Lagos] PHP Warning:  Use of undefined constant point_id - assumed 'point_id' (this will throw an Error in a future version of PHP) in /home/akbfound/public_html/fidelity/inc/service/FetchSalesPointByIdAjax.php on line 13
+[04-Oct-2022 20:45:51 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 386
+[04-Oct-2022 20:46:01 Africa/Lagos] PHP Warning:  Use of undefined constant point_id - assumed 'point_id' (this will throw an Error in a future version of PHP) in /home/akbfound/public_html/fidelity/inc/service/FetchSalesPointByIdAjax.php on line 13
+[04-Oct-2022 20:46:01 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 386
+[04-Oct-2022 20:47:57 Africa/Lagos] PHP Warning:  Use of undefined constant point_id - assumed 'point_id' (this will throw an Error in a future version of PHP) in /home/akbfound/public_html/fidelity/inc/service/FetchSalesPointByIdAjax.php on line 13
+[04-Oct-2022 20:47:57 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 386
+[04-Oct-2022 20:49:28 Africa/Lagos] PHP Warning:  Use of undefined constant point_id - assumed 'point_id' (this will throw an Error in a future version of PHP) in /home/akbfound/public_html/fidelity/inc/service/FetchSalesPointByIdAjax.php on line 13
+[04-Oct-2022 20:49:28 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 386
+[04-Oct-2022 20:50:56 Africa/Lagos] PHP Warning:  Use of undefined constant point_id - assumed 'point_id' (this will throw an Error in a future version of PHP) in /home/akbfound/public_html/fidelity/inc/service/FetchSalesPointByIdAjax.php on line 13
+[04-Oct-2022 20:51:04 Africa/Lagos] PHP Warning:  Use of undefined constant point_id - assumed 'point_id' (this will throw an Error in a future version of PHP) in /home/akbfound/public_html/fidelity/inc/service/FetchSalesPointByIdAjax.php on line 13
+[04-Oct-2022 20:51:06 Africa/Lagos] PHP Warning:  Use of undefined constant point_id - assumed 'point_id' (this will throw an Error in a future version of PHP) in /home/akbfound/public_html/fidelity/inc/service/FetchSalesPointByIdAjax.php on line 13
+[04-Oct-2022 21:22:52 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method PortalUtility::deleteSales() in /home/akbfound/public_html/fidelity/inc/service/DeleteSalesByIdAjax.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/akbfound/public_html/fidelity/inc/service/DeleteSalesByIdAjax.php on line 13
+[04-Oct-2022 21:25:15 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method PortalUtility::deleteSales() in /home/akbfound/public_html/fidelity/inc/service/DeleteSalesByIdAjax.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/akbfound/public_html/fidelity/inc/service/DeleteSalesByIdAjax.php on line 13
+[04-Oct-2022 21:25:28 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method PortalUtility::deleteSales() in /home/akbfound/public_html/fidelity/inc/service/DeleteSalesByIdAjax.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/akbfound/public_html/fidelity/inc/service/DeleteSalesByIdAjax.php on line 13
+[04-Oct-2022 21:29:23 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method PortalUtility::deleteSales() in /home/akbfound/public_html/fidelity/inc/service/DeleteSalesByIdAjax.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/akbfound/public_html/fidelity/inc/service/DeleteSalesByIdAjax.php on line 13
+[06-Oct-2022 21:14:03 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 124
+[06-Oct-2022 21:24:35 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 135
+[06-Oct-2022 21:26:28 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 135
+[06-Oct-2022 21:31:15 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 135
+[06-Oct-2022 22:39:37 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 135
+[06-Oct-2022 23:28:07 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 135
+[06-Oct-2022 23:29:15 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 135
+[06-Oct-2022 23:30:33 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 135
+[07-Oct-2022 09:36:33 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 135
+[07-Oct-2022 12:46:18 Africa/Lagos] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PortalUtility::create_product(), 10 passed in /home/akbfound/public_html/fidelity/inc/service/CreateProductAjax.php on line 22 and exactly 11 expected in /home/akbfound/public_html/fidelity/inc/portal.php:24
+Stack trace:
+#0 /home/akbfound/public_html/fidelity/inc/service/CreateProductAjax.php(22): PortalUtility->create_product(Object(mysqli), 'Goldberg', '--Select Sales-...', '0J7US', '500', '50', 'Bottle Beer', '5000', '2022-10-20', '')
+#1 {main}
+  thrown in /home/akbfound/public_html/fidelity/inc/portal.php on line 24
+[07-Oct-2022 12:53:01 Africa/Lagos] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PortalUtility::create_product(), 10 passed in /home/akbfound/public_html/fidelity/inc/service/CreateProductAjax.php on line 22 and exactly 11 expected in /home/akbfound/public_html/fidelity/inc/portal.php:24
+Stack trace:
+#0 /home/akbfound/public_html/fidelity/inc/service/CreateProductAjax.php(22): PortalUtility->create_product(Object(mysqli), 'Goldberg', '--Select Sales-...', '0J7US', '500', '10', 'Bottle Beer', '1000', '2022-10-07', '')
+#1 {main}
+  thrown in /home/akbfound/public_html/fidelity/inc/portal.php on line 24
+[07-Oct-2022 13:03:49 Africa/Lagos] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PortalUtility::create_product(), 10 passed in /home/akbfound/public_html/fidelity/inc/service/CreateProductAjax.php on line 22 and exactly 11 expected in /home/akbfound/public_html/fidelity/inc/portal.php:24
+Stack trace:
+#0 /home/akbfound/public_html/fidelity/inc/service/CreateProductAjax.php(22): PortalUtility->create_product(Object(mysqli), '0J7US', 'Goldberg', '--Select Sales-...', '600', '10', 'Bottle Beer', '7000', '2022-10-24', '')
+#1 {main}
+  thrown in /home/akbfound/public_html/fidelity/inc/portal.php on line 24
+[07-Oct-2022 13:04:06 Africa/Lagos] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PortalUtility::create_product(), 10 passed in /home/akbfound/public_html/fidelity/inc/service/CreateProductAjax.php on line 22 and exactly 11 expected in /home/akbfound/public_html/fidelity/inc/portal.php:24
+Stack trace:
+#0 /home/akbfound/public_html/fidelity/inc/service/CreateProductAjax.php(22): PortalUtility->create_product(Object(mysqli), '', '', '', '', '', '', '', '', '')
+#1 {main}
+  thrown in /home/akbfound/public_html/fidelity/inc/portal.php on line 24
+[07-Oct-2022 13:04:10 Africa/Lagos] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PortalUtility::create_product(), 10 passed in /home/akbfound/public_html/fidelity/inc/service/CreateProductAjax.php on line 22 and exactly 11 expected in /home/akbfound/public_html/fidelity/inc/portal.php:24
+Stack trace:
+#0 /home/akbfound/public_html/fidelity/inc/service/CreateProductAjax.php(22): PortalUtility->create_product(Object(mysqli), '', '', '', '', '', '', '', '', '')
+#1 {main}
+  thrown in /home/akbfound/public_html/fidelity/inc/portal.php on line 24
+[07-Oct-2022 13:04:11 Africa/Lagos] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PortalUtility::create_product(), 10 passed in /home/akbfound/public_html/fidelity/inc/service/CreateProductAjax.php on line 22 and exactly 11 expected in /home/akbfound/public_html/fidelity/inc/portal.php:24
+Stack trace:
+#0 /home/akbfound/public_html/fidelity/inc/service/CreateProductAjax.php(22): PortalUtility->create_product(Object(mysqli), '', '', '', '', '', '', '', '', '')
+#1 {main}
+  thrown in /home/akbfound/public_html/fidelity/inc/portal.php on line 24
+[07-Oct-2022 13:04:12 Africa/Lagos] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PortalUtility::create_product(), 10 passed in /home/akbfound/public_html/fidelity/inc/service/CreateProductAjax.php on line 22 and exactly 11 expected in /home/akbfound/public_html/fidelity/inc/portal.php:24
+Stack trace:
+#0 /home/akbfound/public_html/fidelity/inc/service/CreateProductAjax.php(22): PortalUtility->create_product(Object(mysqli), '', '', '', '', '', '', '', '', '')
+#1 {main}
+  thrown in /home/akbfound/public_html/fidelity/inc/portal.php on line 24
+[07-Oct-2022 13:04:13 Africa/Lagos] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PortalUtility::create_product(), 10 passed in /home/akbfound/public_html/fidelity/inc/service/CreateProductAjax.php on line 22 and exactly 11 expected in /home/akbfound/public_html/fidelity/inc/portal.php:24
+Stack trace:
+#0 /home/akbfound/public_html/fidelity/inc/service/CreateProductAjax.php(22): PortalUtility->create_product(Object(mysqli), '', '', '', '', '', '', '', '', '')
+#1 {main}
+  thrown in /home/akbfound/public_html/fidelity/inc/portal.php on line 24
+[07-Oct-2022 13:04:13 Africa/Lagos] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PortalUtility::create_product(), 10 passed in /home/akbfound/public_html/fidelity/inc/service/CreateProductAjax.php on line 22 and exactly 11 expected in /home/akbfound/public_html/fidelity/inc/portal.php:24
+Stack trace:
+#0 /home/akbfound/public_html/fidelity/inc/service/CreateProductAjax.php(22): PortalUtility->create_product(Object(mysqli), '', '', '', '', '', '', '', '', '')
+#1 {main}
+  thrown in /home/akbfound/public_html/fidelity/inc/portal.php on line 24
+[07-Oct-2022 13:04:16 Africa/Lagos] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PortalUtility::create_product(), 10 passed in /home/akbfound/public_html/fidelity/inc/service/CreateProductAjax.php on line 22 and exactly 11 expected in /home/akbfound/public_html/fidelity/inc/portal.php:24
+Stack trace:
+#0 /home/akbfound/public_html/fidelity/inc/service/CreateProductAjax.php(22): PortalUtility->create_product(Object(mysqli), '', '', '', '', '', '', '', '', '')
+#1 {main}
+  thrown in /home/akbfound/public_html/fidelity/inc/portal.php on line 24
+[07-Oct-2022 13:07:48 Africa/Lagos] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PortalUtility::create_product(), 10 passed in /home/akbfound/public_html/fidelity/inc/service/CreateProductAjax.php on line 22 and exactly 11 expected in /home/akbfound/public_html/fidelity/inc/portal.php:24
+Stack trace:
+#0 /home/akbfound/public_html/fidelity/inc/service/CreateProductAjax.php(22): PortalUtility->create_product(Object(mysqli), '0J7US', 'Goldberg', '--Select Sales-...', '200', '5', 'Bottle Beer', '5000', '2022-10-30', '')
+#1 {main}
+  thrown in /home/akbfound/public_html/fidelity/inc/portal.php on line 24
+[07-Oct-2022 13:15:05 Africa/Lagos] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PortalUtility::create_product(), 10 passed in /home/akbfound/public_html/fidelity/inc/service/CreateProductAjax.php on line 22 and exactly 11 expected in /home/akbfound/public_html/fidelity/inc/portal.php:24
+Stack trace:
+#0 /home/akbfound/public_html/fidelity/inc/service/CreateProductAjax.php(22): PortalUtility->create_product(Object(mysqli), '', 'Goldberg', '--Select Sales-...', '200', '12', 'Bottle Beer', '2000', '2022-10-20', '')
+#1 {main}
+  thrown in /home/akbfound/public_html/fidelity/inc/portal.php on line 24
+[07-Oct-2022 13:21:43 Africa/Lagos] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PortalUtility::create_product(), 9 passed in /home/akbfound/public_html/fidelity/inc/service/CreateProductAjax.php on line 22 and exactly 11 expected in /home/akbfound/public_html/fidelity/inc/portal.php:24
+Stack trace:
+#0 /home/akbfound/public_html/fidelity/inc/service/CreateProductAjax.php(22): PortalUtility->create_product(Object(mysqli), 'Goldberg', '--Select Sales-...', '100', '10', 'Bottle Beer', '2000', '2022-10-07', '')
+#1 {main}
+  thrown in /home/akbfound/public_html/fidelity/inc/portal.php on line 24
+[07-Oct-2022 13:24:41 Africa/Lagos] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PortalUtility::create_product(), 10 passed in /home/akbfound/public_html/fidelity/inc/service/CreateProductAjax.php on line 22 and exactly 11 expected in /home/akbfound/public_html/fidelity/inc/portal.php:24
+Stack trace:
+#0 /home/akbfound/public_html/fidelity/inc/service/CreateProductAjax.php(22): PortalUtility->create_product(Object(mysqli), '0J7US', 'Goldberg', '--Select Sales-...', '200', '12', 'Can Soft Drink', '1213', '2022-10-07', '')
+#1 {main}
+  thrown in /home/akbfound/public_html/fidelity/inc/portal.php on line 24
+[07-Oct-2022 13:27:08 Africa/Lagos] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PortalUtility::createProduct(), 10 passed in /home/akbfound/public_html/fidelity/inc/service/CreateProductAjax.php on line 22 and exactly 11 expected in /home/akbfound/public_html/fidelity/inc/portal.php:24
+Stack trace:
+#0 /home/akbfound/public_html/fidelity/inc/service/CreateProductAjax.php(22): PortalUtility->createProduct(Object(mysqli), '', '', '', '', '', '', '', '', '')
+#1 {main}
+  thrown in /home/akbfound/public_html/fidelity/inc/portal.php on line 24
+[07-Oct-2022 13:28:17 Africa/Lagos] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PortalUtility::createProduct(), 10 passed in /home/akbfound/public_html/fidelity/inc/service/CreateProductAjax.php on line 22 and exactly 11 expected in /home/akbfound/public_html/fidelity/inc/portal.php:24
+Stack trace:
+#0 /home/akbfound/public_html/fidelity/inc/service/CreateProductAjax.php(22): PortalUtility->createProduct(Object(mysqli), '', '', '', '', '', '', '', '', '')
+#1 {main}
+  thrown in /home/akbfound/public_html/fidelity/inc/portal.php on line 24
+[07-Oct-2022 13:28:47 Africa/Lagos] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PortalUtility::createProduct(), 10 passed in /home/akbfound/public_html/fidelity/inc/service/CreateProductAjax.php on line 22 and exactly 11 expected in /home/akbfound/public_html/fidelity/inc/portal.php:24
+Stack trace:
+#0 /home/akbfound/public_html/fidelity/inc/service/CreateProductAjax.php(22): PortalUtility->createProduct(Object(mysqli), '', '', '', '', '', '', '', '', '')
+#1 {main}
+  thrown in /home/akbfound/public_html/fidelity/inc/portal.php on line 24
+[07-Oct-2022 14:25:38 Africa/Lagos] PHP Warning:  A non-numeric value encountered in /home/akbfound/public_html/fidelity/inc/portal.php on line 199
+[07-Oct-2022 14:25:40 Africa/Lagos] PHP Warning:  A non-numeric value encountered in /home/akbfound/public_html/fidelity/inc/portal.php on line 199
+[07-Oct-2022 14:26:01 Africa/Lagos] PHP Warning:  A non-numeric value encountered in /home/akbfound/public_html/fidelity/inc/portal.php on line 199
+[07-Oct-2022 14:26:11 Africa/Lagos] PHP Warning:  A non-numeric value encountered in /home/akbfound/public_html/fidelity/inc/portal.php on line 199
+[07-Oct-2022 14:26:32 Africa/Lagos] PHP Warning:  A non-numeric value encountered in /home/akbfound/public_html/fidelity/inc/portal.php on line 199
+[07-Oct-2022 14:26:43 Africa/Lagos] PHP Warning:  A non-numeric value encountered in /home/akbfound/public_html/fidelity/inc/portal.php on line 199
+[07-Oct-2022 14:27:00 Africa/Lagos] PHP Warning:  A non-numeric value encountered in /home/akbfound/public_html/fidelity/inc/portal.php on line 199
+[07-Oct-2022 14:27:12 Africa/Lagos] PHP Warning:  A non-numeric value encountered in /home/akbfound/public_html/fidelity/inc/portal.php on line 199
+[07-Oct-2022 14:54:38 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 135
+[07-Oct-2022 16:28:52 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 135
+[07-Oct-2022 16:30:08 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 135
+[07-Oct-2022 16:30:24 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/portal.php on line 135

@@ -1,0 +1,19 @@
+[02-Oct-2022 22:40:42 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'akbfound_FS'@'localhost' (using password: YES) in /home/akbfound/public_html/fidelity/inc/db_connection.php on line 27
+[02-Oct-2022 22:40:42 Africa/Lagos] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/akbfound/public_html/fidelity/inc/session.php on line 16
+[02-Oct-2022 22:40:42 Africa/Lagos] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/akbfound/public_html/fidelity/inc/session.php on line 21
+[02-Oct-2022 22:40:42 Africa/Lagos] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/akbfound/public_html/fidelity/inc/session.php on line 24
+[03-Oct-2022 14:40:51 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method PortalUtility::getSalesQuantity() in /home/akbfound/public_html/fidelity/inc/portal.php:321
+Stack trace:
+#0 /home/akbfound/public_html/fidelity/inc/portal.php(352): PortalUtility->updateProductQuantity(Object(mysqli), 'R0GWH', 'N1F62')
+#1 /home/akbfound/public_html/fidelity/inc/session.php(3): include('/home/akbfound/...')
+#2 /home/akbfound/public_html/fidelity/dashboard.php(3): include_once('/home/akbfound/...')
+#3 {main}
+  thrown in /home/akbfound/public_html/fidelity/inc/portal.php on line 321
+[03-Oct-2022 14:40:58 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method PortalUtility::getSalesQuantity() in /home/akbfound/public_html/fidelity/inc/portal.php:321
+Stack trace:
+#0 /home/akbfound/public_html/fidelity/inc/portal.php(352): PortalUtility->updateProductQuantity(Object(mysqli), 'R0GWH', 'N1F62')
+#1 /home/akbfound/public_html/fidelity/inc/session.php(3): include('/home/akbfound/...')
+#2 /home/akbfound/public_html/fidelity/dashboard.php(3): include_once('/home/akbfound/...')
+#3 {main}
+  thrown in /home/akbfound/public_html/fidelity/inc/portal.php on line 321
+[07-Oct-2022 14:24:53 Africa/Lagos] PHP Warning:  A non-numeric value encountered in /home/akbfound/public_html/fidelity/inc/portal.php on line 199
